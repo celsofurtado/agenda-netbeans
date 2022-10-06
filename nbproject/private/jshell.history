@@ -1,0 +1,4 @@
+EXPRESSION#>exit
+EXPRESSION#>help
+VAR#>int a = 10;
+STATEMENT#>System.out.println(a);
